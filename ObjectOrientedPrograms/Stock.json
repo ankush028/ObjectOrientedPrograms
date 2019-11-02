@@ -1,0 +1,25 @@
+[ {
+  "stockName" : "Sugar",
+  "numberOfShare" : 21,
+  "price" : 156
+}, {
+  "stockName" : "salt",
+  "numberOfShare" : 20,
+  "price" : 120
+}, {
+  "stockName" : "madern",
+  "numberOfShare" : 201,
+  "price" : 156
+}, {
+  "stockName" : "pen",
+  "numberOfShare" : 25,
+  "price" : 5
+}, {
+  "stockName" : "sallt",
+  "numberOfShare" : 626,
+  "price" : 15
+}, {
+  "stockName" : "books",
+  "numberOfShare" : 100,
+  "price" : 45
+} ]
