@@ -1,0 +1,25 @@
+[ {
+  "dname" : "Ankit",
+  "did" : 102,
+  "shift" : "am",
+  "appointments" : 0,
+  "speci" : "Pysio"
+}, {
+  "dname" : "ankush",
+  "did" : 101,
+  "shift" : "pm",
+  "appointments" : 5,
+  "speci" : "serjan"
+}, {
+  "dname" : "sachin",
+  "did" : 103,
+  "shift" : "am",
+  "appointments" : 0,
+  "speci" : "serjan"
+}, {
+  "dname" : "mukesh",
+  "did" : 104,
+  "shift" : "am",
+  "appointments" : 0,
+  "speci" : "feverspeci"
+} ]
